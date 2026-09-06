@@ -49,6 +49,13 @@ omarchy theme set stormtrooper
 - **Window Manager**: Hyprland (with Lua configuration parser).
 - **Dependencies**: imagemagick (for dynamic asset adjustments and wordmark composite generation).
 
+
+## Gallery
+
+| Tiled Workspace | Application Overview |
+| :---: | :---: |
+| <img src="screenshots/screenshot-2026-09-06_08-04-16.png" width="380" /> | <img src="screenshots/screenshot-2026-09-06_08-03-03.png" width="380" /> |
+
 ## Credits and License
 
 - **Aesthetic**: Inspired by Star Wars Imperial aesthetics (Lucasfilm Ltd. IP / Fair Use Notice).
