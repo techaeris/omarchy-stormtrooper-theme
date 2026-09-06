@@ -1,0 +1,18 @@
+-- Stormtrooper Theme Hyprland Borders
+local active_border_color = { colors = { "rgba(D8DCE0ee)", "rgba(3D444Cee)" }, angle = 45 }
+local inactive_border_color = "rgba(181A1Caa)"
+
+hl.config({
+  general = {
+    col = {
+      active_border = active_border_color,
+      inactive_border = inactive_border_color,
+    },
+  },
+  group = {
+    col = {
+      border_active = active_border_color,
+      border_inactive = inactive_border_color,
+    },
+  },
+})

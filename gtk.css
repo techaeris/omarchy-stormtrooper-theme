@@ -1,0 +1,26 @@
+/* Stormtrooper Theme GTK CSS */
+
+window.dialog, window.message, messagedialog {
+  background-color: #212427;
+  color: #D8DCE0;
+  border: 2px solid;
+  border-image: linear-gradient(135deg, #D8DCE0 0%, #3D444C 100%) 1;
+}
+
+dialog .dialog-action-area button {
+  background-color: #2C333A;
+  color: #D8DCE0;
+  border-radius: 4px;
+}
+
+dialog .dialog-action-area button.suggested-action {
+  background-color: #5A6570;
+  color: #181A1C;
+}
+
+headerbar {
+  background-color: #181A1C;
+  color: #D8DCE0;
+  border-bottom: 2px solid;
+  border-image: linear-gradient(135deg, #D8DCE0 0%, #3D444C 100%) 1;
+}

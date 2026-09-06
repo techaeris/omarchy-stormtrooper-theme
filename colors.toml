@@ -1,0 +1,44 @@
+mode = "dark"
+
+# Deep carbon / matte surfaces
+background = "#181A1C"
+surface = "#212427"
+surface_bright = "#2A2E33"
+
+dark_background = "#181A1C"
+darker_background = "#181A1C"
+lighter_background = "#212427"
+
+# Muted greyish-white for readability
+foreground = "#D8DCE0"
+foreground_muted = "#8E969E"
+
+dark_foreground = "#8E969E"
+light_foreground = "#D8DCE0"
+bright_foreground = "#EAECEE"
+
+# Darkened blaster greys and gunmetal accents
+accent = "#5A6570"
+border = "#2E343A"
+border_active = "#8C969E"
+selection = "#2C333A"
+muted = "#8E969E"
+
+# Terminal ANSI & functional highlights
+black = "#181A1C"
+red = "#B23B3B"
+green = "#6C8A74"
+yellow = "#C4A265"
+blue = "#546E82"
+magenta = "#7E6E82"
+cyan = "#5D7A85"
+white = "#D8DCE0"
+
+bright_black = "#3D444C"
+bright_red = "#C74B4B"
+bright_green = "#7EA087"
+bright_yellow = "#D9B677"
+bright_blue = "#6888A0"
+bright_magenta = "#958399"
+bright_cyan = "#7294A0"
+bright_white = "#EAECEE"
