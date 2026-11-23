@@ -4,6 +4,11 @@
 [![Wayland](https://img.shields.io/badge/Wayland-Compositor-2185D0?style=for-the-badge)](https://wayland.freedesktop.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
+> [!IMPORTANT]
+> **Project Status — Shared "As-Is" / Not Actively Maintained**
+>
+> This Stormtrooper theme was built primarily for my personal **Omarchy Linux** setup and is **not an actively maintained project**. It is shared publicly **"as-is"** in the hope that it may be useful to others — you are welcome to use, modify, or fork it freely under the [MIT License](LICENSE), though issues and pull requests may not receive responses.
+
 An elite, highly polished dark-mode theme inspired by the classic Star Wars Imperial aesthetic.
 
 <p align="center">
